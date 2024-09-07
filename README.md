@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Kashyap
 🔭 I’m currently working on projects at the intersection of technology and data.<br>🌱 I’m currently learning advanced data science techniques and exploring AI/ML applications.<br>👯 I’m looking to collaborate on innovative data-driven projects.<br>
 
 
